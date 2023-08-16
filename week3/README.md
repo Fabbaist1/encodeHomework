@@ -1,7 +1,9 @@
 # Deploy.ts works
 
 contract ADDRESS_Ballot = "0x595b60F64d7327F12A05A602208462bF4fCE5673";<br>
+https://sepolia.etherscan.io/tx/0x9c6d9b930eacb43d86fa3b206ab8be7b773892eb129d23bafd900850521e987e <br>
 contract ADDRESS_Token = "0x28Df0768dB160bA6f1fC341716489fd828645933";<br>
+https://sepolia.etherscan.io/tx/0xfd332494c1bc6487984b8ff40fc15fbef880f27813dc54f3955c8dd842349ae9 <br>
 Proposals: Strawbeery Chocolate Vanilla 
 (edit: yes, strawberry has a typo but it's on the blockchain now...) 
 

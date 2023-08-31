@@ -27,10 +27,11 @@ Redelegate after new mint
 https://sepolia.etherscan.io/tx/0x01b4615597130056f3220c1b2f83268067f339cc429e6ab848d812cf0e728809
 
 # castVotes.ts
-not working as intended, searching for the issue.
-Resultion described above.
+not working as intended, searching for the issue.<br>
+Resultion described above.<br>
 
-castVotes tx for 20 votes.
+castVotes tx for 20 votes.<br> 
+https://sepolia.etherscan.io/tx/0xc122532e68bcde64f290c9bdf7bdf534d8bee3d039bdcee5937daff322353bf4 <br>
 
 Notes: Adjust the Factory and the Address to the correct account (deployed address). 
 CAREFUL, the ballot timestamp needs to be after token mint and delegation

@@ -1,3 +1,3 @@
-### encodeHomework repo 
-# by Fabbaist
+# encodeHomework repo 
+### by Fabbaist
 Collection of the four weeks homework.
